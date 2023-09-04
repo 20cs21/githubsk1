@@ -1,1 +1,1 @@
-document.getElementByID
+document.getElementByID("header")
